@@ -11,5 +11,9 @@ git init flask_git
 (web) cbs@cbs-u:~/flask/flask_git$ gedit README
 (web) cbs@cbs-u:~/flask/flask_git$ gedit test.py
 (web) cbs@cbs-u:~/flask/flask_git$ git add README
+(web) cbs@cbs-u:~/flask/flask_git$ git add test.py
+(web) cbs@cbs-u:~/flask/flask_git$ git commit -m "commit 28Aug"
+(web) cbs@cbs-u:~/flask/flask_git$ git remote add origin https://github.com/parthasen/flask_git.git
+(web) cbs@cbs-u:~/flask/flask_git$ git push origin master
 
 

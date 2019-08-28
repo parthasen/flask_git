@@ -1,0 +1,15 @@
+cbs@cbs-u:~$ cd flask
+cbs@cbs-u:~/flask$
+cbs@cbs-u:~/flask$ source web/bin/activate
+(web) cbs@cbs-u:~/flask$ 
+
+sudo apt-get install git
+git config --global user.name "parthasen"
+git config --global user.email "research@parthasen.net"
+git init flask_git
+(web) cbs@cbs-u:~/flask$ cd flask_git/
+(web) cbs@cbs-u:~/flask/flask_git$ gedit README
+(web) cbs@cbs-u:~/flask/flask_git$ gedit test.py
+(web) cbs@cbs-u:~/flask/flask_git$ git add README
+
+
